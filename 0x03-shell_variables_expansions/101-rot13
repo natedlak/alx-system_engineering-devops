@@ -1,2 +1,3 @@
 #!/bin/bash
-tr'A-Za-z' 'N-ZA-Mn-za-m'
+echo ""Everyone is a proponent of strong encryption."
+- Dorothy E. Denning" | tr'A-Za-z' 'N-ZA-Mn-za-m'
